@@ -1,0 +1,17 @@
+.button {
+    background-color: #dfdfdf;
+    padding: 12px;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+  }
+
+  .btn-add:hover {
+    background-color: #c2c2c2;
+  }
+  
+  .btn-calcular:hover {
+    background-color: rgb(36, 185, 36);
+  }
